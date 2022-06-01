@@ -1,1 +1,3 @@
-# city_attractiveness
+## Collapse of City Attractiveness in Western and Northeastern China
+
+Replication code and data is on the way ...
